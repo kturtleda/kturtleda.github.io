@@ -6,7 +6,7 @@ html {
 }
 body{
     color: black;
-    background-color: #594231;
+    background-color: #17288b;
     margin: 0;
     padding: 0;
     overflow-x: hidden;
@@ -74,7 +74,7 @@ h2{
 
 .main_contents section.introduce, .main_contents section.sns{
     position: relative;
-    background-color: #594231;;
+    background-color: #17288b;;
     scroll-snap-align: start;
     
 }
@@ -112,18 +112,18 @@ footer{
     }
     h1{
         font-size: 4rem;
-        color: #594231;
+        color: #17288b;
         width: 30rem;
         margin-top: 20px;
         margin-bottom: 70px;
     }
     h2{
         font-size: 2rem;
-        color: #594231;
+        color: #17288b;
         width: 50rem;
         height: auto;
         border-bottom: 2px solid;
-        border-color: #594231;
+        border-color: #17288b;
         margin-bottom: 10px;
         padding-bottom: 5px;
     }
@@ -264,11 +264,11 @@ footer{
     }
     h2{
         font-size: 1.8rem;
-        color: #594231;
+        color: #17288b;
         width: auto;
         height: auto;
         border-bottom: 2px solid;
-        border-color: #594231;
+        border-color: #17288b;
         margin-bottom: 10px;
         padding-bottom: 5px;
     }
